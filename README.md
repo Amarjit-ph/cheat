@@ -1,2 +1,2 @@
-# MOTHERSHIP OF ALL CHEAT SHEET
+# MOTHER OF ALL CHEAT SHEET
 Dev Hints - https://devhints.io/
